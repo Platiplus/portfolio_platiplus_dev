@@ -17,6 +17,24 @@
           "url": "https://adventure-keeper.platiplus.dev/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "\uD83D\uDCD6 EDUCATION",
+      "title": "Japanese Quest",
+      "description": "Application built to help people learn japanese. It's an ongoing development.",
+      "tags": ["SPA"],
+      "image": {
+        "src": "../../images/japanese-quest-architecture-doc/thumb.jpg",
+        "alt": "WoD - Adventure Keeper",
+        "linkTo": "https://platiplus.dev/japanese-quest-architecture-doc/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://japanese.platiplus.dev/"
+        }
+      ]
     }
   ],
   "button": {

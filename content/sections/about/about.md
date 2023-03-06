@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/lecture.jpg"
 imageAlt: "Victor Rosa lecturing about IoT on The Developers Conference in Minas Gerais"
 ---
 

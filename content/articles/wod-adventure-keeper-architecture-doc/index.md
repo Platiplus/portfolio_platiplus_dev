@@ -1,6 +1,6 @@
 ---
 title: "WoD - Adventure Keeper: Architecture Doc"
-description: "This description will be used for the article listing and search results on Google."
+description: "Web application to manage character sheets and adventure data for World of Darkness chronicles."
 date: "2023-03-06"
 banner:
   src: "../../images/wod-adventure-keeper-architecture-doc/wod-header.jpg"
@@ -64,8 +64,11 @@ The <span style="font-weight:bold;">frontend</span> of Adventure Keeper is a <sp
 
 For the backend, <span style="font-weight:bold; color: #13C8E5">API Gateway</span> and <span style="font-weight:bold; color: #13C8E5">Lambdas</span> are used to deal with specific entity related code. This allows for a more efficient use of resources, as each Lambda function can be optimized to handle a specific task, making them more scalable and easier to maintain. The API Gateway provides a simple and secure way to interact with the Lambdas, ensuring that data is handled safely and securely.
 
+<span style="font-weight:bold; color: #13C8E5">Amazon Incognito</span> and <span style="font-weight:bold; color: #13C8E5">Amplify</span> were the choice for user authentication since they handle all authentication needs like, registering, login, resetting password, etc.
+
 To store data, <span style="font-weight:bold; color: #13C8E5">CockroachDB</span> was selected since it is a scalable, fast, cheap and serverless database that uses PostgreSQL syntax. This choice provides the benefits of a traditional SQL database, with the added advantages of serverless architecture. CockroachDB’s also has a generous free tier offer that makes it a very attractive choice to build a web app on a budget.
+
+To monitor the application, all the Lambdas are constantly writing logs to <span style="font-weight:bold; color: #13C8E5">Amazon Cloudwatch</span>. This provides developers with a powerful tool for monitoring the app, identifying issues and debugging problems.
 
 Finally, all the infrastructure for this web app was created as code, using <span style="font-weight:bold; color: #13C8E5">AWS CDK</span> to build and version all resources. This approach allows for more consistent and repeatable infrastructure, making it easier to maintain and update the app over time. The use of <span style="font-weight:bold; color: #13C8E5">Git</span> for version control ensures that changes to the infrastructure can be tracked and managed more effectively.
 
-To monitor the application, all the Lambdas are constantly writing logs to <span style="font-weight:bold; color: #13C8E5">Amazon Cloudwatch</span>. This provides developers with a powerful tool for monitoring the app, identifying issues and debugging problems.
