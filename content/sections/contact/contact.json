@@ -1,0 +1,13 @@
+{
+  "name": "Keep in touch!",
+  "email": "quazarweb@gmail.com",
+  "description": "",
+  "image": {
+    "src": "",
+    "alt": ""
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

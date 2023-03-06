@@ -1,0 +1,226 @@
+{
+  "interests": [
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/skills/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Typescript",
+      "image": {
+        "src": "../../images/skills/ts.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/skills/nodejs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/skills/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Redux",
+      "image": {
+        "src": "../../images/skills/redux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
+        "src": "../../images/skills/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/skills/postgres.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Serverless",
+      "image": {
+        "src": "../../images/skills/serverless.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Ruby on Rails",
+      "image": {
+        "src": "../../images/skills/rails.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDb",
+      "image": {
+        "src": "../../images/skills/mongodb.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Angular",
+      "image": {
+        "src": "../../images/skills/angular.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Azure",
+      "image": {
+        "src": "../../images/skills/azure.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C#",
+      "image": {
+        "src": "../../images/skills/csharp.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML 5",
+      "image": {
+        "src": "../../images/skills/html.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS 3",
+      "image": {
+        "src": "../../images/skills/css.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/skills/docker.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": ".NET",
+      "image": {
+        "src": "../../images/skills/dotnet.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/skills/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GraphQL",
+      "image": {
+        "src": "../../images/skills/graphql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Kotlin",
+      "image": {
+        "src": "../../images/skills/kotlin.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Kubernets",
+      "image": {
+        "src": "../../images/skills/kubernetes.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MySQL",
+      "image": {
+        "src": "../../images/skills/mysql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NestJS",
+      "image": {
+        "src": "../../images/skills/nestjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Netlify",
+      "image": {
+        "src": "../../images/skills/netlify.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NextJs",
+      "image": {
+        "src": "../../images/skills/nextjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PHP",
+      "image": {
+        "src": "../../images/skills/php.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/skills/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Redis",
+      "image": {
+        "src": "../../images/skills/redis.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Sequelize",
+      "image": {
+        "src": "../../images/skills/sequelize.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Swift",
+      "image": {
+        "src": "../../images/skills/swift.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeORM",
+      "image": {
+        "src": "../../images/skills/typeorm.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ See more skill",
+    "initiallyShownInterests": 8
+  }
+}

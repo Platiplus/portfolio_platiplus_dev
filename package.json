@@ -1,0 +1,28 @@
+{
+  "name": "platiplus-dev-personal-portfolio",
+  "version": "1.0.0",
+  "description": "Platiplu.DEV personal portfolio",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Victor Rosa",
+  "license": "0BSD",
+  "starter-name": "gatsby-starter-portfolio-minimal-theme",
+  "homepage": "https://github.com/Platiplus/portfolio_platiplus_dev#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Platiplus/portfolio_platiplus_dev.git"
+  }
+}

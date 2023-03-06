@@ -1,0 +1,43 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://platiplus.dev/",
+    "title": "Platiplus.DEV",
+    "titleTemplate": "%s · Portfolio",
+    "description": "I like to build cool stuff from scratch! (frontend/backend/insfrastructure)",
+    "author": "Victor Rosa",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "Senior Software Engineer, enthusiastic about scalability and performance. Spare time drummer.",
+    "social": {
+      "behance": "",
+      "github": "https://github.com/Platiplus",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/victorrosapx/",
+      "mail": "mailto:quazarweb@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Platiplus.DEV" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/projects" },
+        { "label": "Showcase", "url": "/#showcase" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

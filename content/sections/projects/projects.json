@@ -1,0 +1,27 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ GAMING",
+      "title": "WoD - Adventure Keeper",
+      "description": "Application built to facilitate remote play and paperless adventures. Manage your adventures and character sheets from the World of Darkness storytelling RPG system.",
+      "tags": ["SPA", "Serverless Architecture"],
+      "image": {
+        "src": "../../images/wod-adventure-keeper-architecture-doc/thumb.jpg",
+        "alt": "WoD - Adventure Keeper",
+        "linkTo": "https://platiplus.dev/wod-adventure-keeper-architecture-doc/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://adventure-keeper.platiplus.dev/"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "See the Tech Docs",
+    "url": "https://platiplus.dev/projects/"
+  }
+}
