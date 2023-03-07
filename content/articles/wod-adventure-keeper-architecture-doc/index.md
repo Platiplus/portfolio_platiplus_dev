@@ -29,6 +29,8 @@ Adventure Keeper aims to eliminate the use of paper regarding playing/narrating 
 
 Your character sheets are kept in the cloud and can be accessed from any device that has a browser, so you can either play adventures remotely and use your computer or go to your friends’ houses and use your phone to check on your character and update its traits and statuses.
 
+[Click here to go to the app](https://adventure-keeper.platiplus.dev)
+
 ## Screens
 
 ![Character Selection Screen](../../images/wod-adventure-keeper-architecture-doc/character_selection.jpg "Character selection screen")
