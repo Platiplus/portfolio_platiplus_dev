@@ -22,7 +22,7 @@ I've discovered that Japanese has 3 alphabets (4 if you include romaji, which is
 
 So, the idea of the app is to help me (and other people) train and remember all those symbols from the Japanese alphabets.
 
-[Click here to go to the app](https://japanese.platiplus.dev)
+[Click here to go to the app](https://japanese-quest.platiplus.dev)
 
 ## Screens
 
