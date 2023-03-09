@@ -26,7 +26,11 @@ So, the idea of the app is to help me (and other people) train and remember all 
 
 ## Screens
 
-![Quiz Screen](../../images/japanese-quest-architecture-doc/quiz.jpg "Quiz screen")
+![Home Screen](../../images/japanese-quest-architecture-doc/home.jpg "Home screen")
+
+The home screen of the app is where you can choose what area of the app you want to access: currently we have the quizes, keyboards and the glossaries.
+
+![Quiz Screen](../../images/japanese-quest-architecture-doc/quiz.jpg)
 
 The quiz screen consists of a central card that will present you a symbol from the Japanese alphabet, to this date, we only have Hiragana.
 
