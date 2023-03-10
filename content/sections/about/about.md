@@ -21,3 +21,5 @@ to name a few. I've also worked with various databases and cloud services, inclu
 <span style="color: #13C8E5;">Azure Devops</span>.
 
 As my skills and experience grew, I started to take on more senior roles. I became a team leader and was responsible for leading the development of complex web applications. I developed a passion for coaching and mentoring younger developers and found great satisfaction in seeing them grow and succeed. I also became more involved in the open-source community, contributing to various projects.
+
+To see a timeline of where I've worked and the common stack, please [CLICK HERE](https://platiplus.dev/experience)

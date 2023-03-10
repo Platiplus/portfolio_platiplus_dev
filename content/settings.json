@@ -21,8 +21,8 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Projects", "url": "/projects" },
         { "label": "Showcase", "url": "/#showcase" },
+        { "label": "Projects", "url": "/projects" },
         { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
